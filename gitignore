@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+env/
+venv/
+.env
+*.log
+
+# React / Node
+node_modules/
+build/
+dist/
+npm-debug.log
+yarn-error.log
+.DS_Store
+
+# VS Code
+.vscode/
+
+# System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
